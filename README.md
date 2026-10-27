@@ -1,1 +1,24 @@
-# pagina-web
+# pagina-webhttps://
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>IDENTIFICACION, METAS Y LO QUE ESPERO DEL INED</title>
+</head>
+<body>
+    <h1>IDENTIFICACION </h1>
+    <p>nombre: MABELIN ROSMERY </p>
+    <p>APELLIDOS: TAQUIRA CUJCUJ</p>
+    <p>FECHA DE NACIMIENTO: 3 DE FEBRERO DE 2010</p>
+    <p>EDAD: 16 AÑOS</p>
+    <h2>METAS </h2>
+    <p>GRADUARME DEL INED </p>
+    <p>ir a estudiar en la universidad </p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPsIiNfciHzEg4ubQAZH3yxVnyRfClsRY6YNe9XFsQpQ&s=10" 
+    <h3> QUE ES LO QUE ESPERO DEL INED </h3>
+    <p>que tengan mas instrumentos</p>
+    <p>y que tengan mas computadoras para que los jovenes salgan mejor preparados</p>
+   <p> y que tenga una escuela propia </p>
+    <img src="https://scontent.fgua14-1.fna.fbcdn.net/v/t39.30808-1/461541867_2528037904046747_3903726400661047709_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s200x200&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=ESr8XHWrFfoQ7kNvwEM-v-m&_nc_oc=AdoDdUA67aN6FqSUmOMcX_ZY5mz1GR6jVPhvjTsC_ZOOSQo8wERWwhUbA9E8GrOSbi8&_nc_zt=24&_nc_ht=scontent.fgua14-1.fna&_nc_gid=hdZStHuch5bgQTWwPjG-FQ&_nc_ss=7b289&oh=00_AQS5zwrMj6nkbdpQV0tSCg_BPOw6n-IjaU5XFO3PVj6atA&oe=6AE709FD"
+</body>
+</html>
